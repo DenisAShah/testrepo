@@ -12,4 +12,6 @@ A random test line
 
 Now make another edit after pushing from the shell.
 
-A thrid edit
+A thrid edit.
+
+Let's correct that 3rd edit now.
